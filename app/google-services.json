@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488642100875",
+    "project_id": "quantamitinternship",
+    "storage_bucket": "quantamitinternship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488642100875:android:0b8ad043af2ceffb0a1e8e",
+        "android_client_info": {
+          "package_name": "com.example.quantamitinternship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488642100875-o1vhto9hqooo0hohjo87s1t02qhlevgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANEaxAWWfMSFDO0ZYLhaV6dz007xsKT5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488642100875-o1vhto9hqooo0hohjo87s1t02qhlevgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
